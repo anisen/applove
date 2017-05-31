@@ -112,6 +112,21 @@ header{
   text-align: center;
   margin-top: 80px;
 }
+.primera-fila{
+    display: inline-block;
+  width: 30%;
+  margin-top: 63px;
+}
+.segunda-fila{
+display: inline-block;
+  width: 30%;
+  margin-top: 63px;
+}
+.tercera-fila{
+  display: inline-block;
+  width: 30%;
+  margin-top: 63px;
+}
 footer{
   text-align: center;
   height: 70px;
